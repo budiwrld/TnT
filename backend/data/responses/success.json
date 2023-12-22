@@ -1,46 +1,56 @@
 {
     "200": {
-        "message": "OK",
-        "data": null
+        "status": "OK",
+        "data": null,
+        "message": "Pyyntö onnistui"
     },
     "201": {
-        "message": "Created",
+        "status": "Created",
         "data": {
             "id": null,
             "username": null,
             "email": null
-        }
+        },
+        "message": "Käyttäjä luotu onnistuneesti"
     },
     "202": {
-        "message": "Accepted",
-        "data": null
+        "status": "Accepted",
+        "data": null,
+        "message": "Pyyntö hyväksytty"
     },
     "203": {
-        "message": "Non-Authoritative Information",
-        "data": null
+        "status": "Non-Authoritative Information",
+        "data": null,
+        "message": "Ei-viranomaisinformaatio"
     },
     "204": {
-        "message": "No Content",
-        "data": null
+        "status": "No Content",
+        "data": null,
+        "message": "Ei sisältöä"
     },
     "205": {
-        "message": "Reset Content",
-        "data": null
+        "status": "Reset Content",
+        "data": null,
+        "message": "Nollaa sisältö"
     },
     "206": {
-        "message": "Partial Content",
-        "data": null
+        "status": "Partial Content",
+        "data": null,
+        "message": "Osittainen sisältö"
     },
     "207": {
-        "message": "Multi-Status",
-        "data": null
+        "status": "Multi-Status",
+        "data": null,
+        "message": "Monitilanne"
     },
     "208": {
-        "message": "Already Reported",
-        "data": null
+        "status": "Already Reported",
+        "data": null,
+        "message": "Jo raportoitu"
     },
     "226": {
-        "message": "IM Used",
-        "data": null
+        "status": "IM Used",
+        "data": null,
+        "message": "IM käytetty"
     }
 }
