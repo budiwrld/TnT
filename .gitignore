@@ -1,0 +1,30 @@
+# reactJS ignore 
+# dependencies
+lvchat/node_modules
+lvchat/.pnp
+lvchat/*.pnp.js
+
+# testing
+lvchat/coverage
+
+# production
+lvchat/build
+
+# misc
+lvchat/*.DS_Store
+lvchat/*.env.local
+lvchat/*.env.development.local
+lvchat/*.env.test.local
+lvchat/*.env.production.local
+
+lvchat/npm-debug.log*
+lvchat/yarn-debug.log*
+lvchat/yarn-error.log*
+
+# Python ignore
+/__pycache__/
+backend/*.pyc
+backend/*.pyd
+env/
+instance/
+backend/.env

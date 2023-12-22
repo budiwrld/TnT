@@ -1,0 +1,30 @@
+{
+    "400": {
+        "message": "Bad Request",
+        "description": "Palvelin ei voi käsitellä pyyntöä asiakasvirheen takia."
+    },
+    "401": {
+        "message": "Unauthorized",
+        "description": "Tunnistautuminen vaaditaan ja se on epäonnistunut tai sitä ei ole toimitettu."
+    },
+    "403": {
+        "message": "Forbidden",
+        "description": "Asiakkaalla ei ole oikeutta käyttää pyydettyä resurssia."
+    },
+    "404": {
+        "message": "Not Found",
+        "description": "Palvelin ei löydä pyydettyä resurssia."
+    },
+    "409": {
+        "message": "Conflict",
+        "description": "Rekisteröinti epäonnistui, koska käyttäjänimi, sähköposti tai puhelinnumero on jo käytössä."
+    },
+    "500": {
+        "message": "Internal Server Error",
+        "description": "Palvelin kohtasi odottamattoman tilanteen."
+    },
+    "503": {
+        "message": "Service Unavailable",
+        "description": "Palvelin ei ole valmis käsittelemään pyyntöä. Yleisiä syitä ovat huolto tai väliaikainen ylikuormitus."
+    }
+}

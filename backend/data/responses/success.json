@@ -1,0 +1,46 @@
+{
+    "200": {
+        "message": "OK",
+        "data": null
+    },
+    "201": {
+        "message": "Created",
+        "data": {
+            "id": null,
+            "username": null,
+            "email": null
+        }
+    },
+    "202": {
+        "message": "Accepted",
+        "data": null
+    },
+    "203": {
+        "message": "Non-Authoritative Information",
+        "data": null
+    },
+    "204": {
+        "message": "No Content",
+        "data": null
+    },
+    "205": {
+        "message": "Reset Content",
+        "data": null
+    },
+    "206": {
+        "message": "Partial Content",
+        "data": null
+    },
+    "207": {
+        "message": "Multi-Status",
+        "data": null
+    },
+    "208": {
+        "message": "Already Reported",
+        "data": null
+    },
+    "226": {
+        "message": "IM Used",
+        "data": null
+    }
+}
