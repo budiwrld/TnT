@@ -27,4 +27,3 @@ backend/*.pyc
 backend/*.pyd
 env/
 instance/
-backend/.env
